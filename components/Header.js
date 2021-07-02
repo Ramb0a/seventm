@@ -42,7 +42,7 @@ function Header() {
 					
 				{/* Career Header */}
 				<div>
-				<a href="https://angel.co/company/givingg/jobs">
+				<a href="https://angel.co/company/seventm/jobs">
 				<HeaderItem title="Career" Icon={UserAddIcon} />
 				</a>
 				</div>
@@ -56,7 +56,7 @@ function Header() {
 
 				{/* Home Header */}
 				<div>
-					<a href="https://givin.gg">
+					<a href="https://seventm.com">
 				<HeaderItem  title='Home' Icon={HomeIcon} />
 				</a>
 				</div>
