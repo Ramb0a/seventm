@@ -15,7 +15,7 @@ function Header() {
 	return(
 		<header className="flex flex-col sm:flex-row mt-5 justify-betwen items-center ">
 			<div className="w-full  mb-3">
-				<p className="font-mono text-2xl mb-2 sm:mb-4 text-center sm:text-left">Givingg</p>
+				<p className="font-mono text-2xl mb-2 sm:mb-4 text-center sm:text-left">7™</p>
 			</div>
 			<div className="flex flex-grow justify-evenly max-w-2xl">
 				
