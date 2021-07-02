@@ -56,7 +56,7 @@ function Header() {
 
 				{/* Home Header */}
 				<div>
-					<a href="https://seventm.com">
+					<a href="https://www.seventm.com">
 				<HeaderItem  title='Home' Icon={HomeIcon} />
 				</a>
 				</div>
